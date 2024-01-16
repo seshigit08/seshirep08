@@ -4,6 +4,12 @@
 	"parameters": {
 		"factoryName": {
 			"value": "azurefundamentalsDF"
+		},
+		"AzureBlobStorage1_connectionString": {
+			"value": ""
+		},
+		"AzureKeyVault1_properties_typeProperties_baseUrl": {
+			"value": "https://devfundamentalskeyvault.vault.azure.net/"
 		}
 	}
 }
